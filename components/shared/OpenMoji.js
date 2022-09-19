@@ -17,4 +17,3 @@ class OpenMoji extends Component {
 
 export default OpenMoji
 
-
